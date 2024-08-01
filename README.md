@@ -7,7 +7,9 @@ This project demonstrates the setup and management of a home lab environment fea
 - 1 Windows Server 2022 machine (Active Directory Domain Controller)
 - 1 Ubuntu Server machine (Splunk SIEM)
 
-The purpose of this project is to explore how a domain environment works, learn how to ingest events into a SIEM, and generate telemetry related to attacks.
+The purpose of this project is to explore how a domain environment works, learn how to ingest events into a SIEM, and generate telemetry related to various cyberattacks using Atomic Red Team.
+![image](https://github.com/user-attachments/assets/aaeee725-7c87-4fc0-89ff-2136af0cdaf2)
+
 ![Network Diagram](https://i.imgur.com/vor6Lci.png)
 
 
