@@ -21,7 +21,7 @@ The purpose of this project is to explore how a domain environment works, learn 
 - Ubuntu Server installation media or ISO.
 - Virtualization software (e.g., VirtualBox, VMware) or physical hardware for installation.
 - Basic understanding of networking, system administration, SIEM
-- SEIM (Splunk)
+- SIEM (Splunk)
 - Atomic Red Team
 - MITRE ATT&CK framework
 
